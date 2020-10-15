@@ -10,7 +10,7 @@ How to set it up:
 
 3. Go to line 438 in biscord.py and replace TOKEN HERE with the bot token you just made (keep the ' marks)
 
-4. Go to config.ini (open it with a text editor) and paste the Discord token in the discordusername field and paste your Discord ID in the admin field
+4. Go to config.ini (open it with a text editor) and paste the Discord token in the discordusername field and paste your Discord ID in the admin field and put your discord ID in the admins field
 
 4. cd into where your bot files are stored using cd PATH TO FOLDER and run the following command: pip install discord.py
 
