@@ -12,7 +12,7 @@ How to set it up:
 
 4. Go to config.ini (open it with a text editor) and paste the Discord token in the discordusername field and paste your Discord ID in the admin field
 
-4. cd into where your bot files are stored using cd PATH TO FOLDER and run the following command: cd discord.py
+4. cd into where your bot files are stored using cd PATH TO FOLDER and run the following command: pip install discord.py
 
 5. This step differs if you have a UNIX based OS (linux or macOS) or if you have Windows. To start the bot on Windows run start.bat and you're good to go. To start the bot on a UNIX based OS open a terminal window and run python3 biscord.py 
 
