@@ -453,6 +453,3 @@ async def on_message(message):
             return await message.channel.send("You're missing manage server permissions")
     
 client.run(token) # runs the bot with the provided token in the token variable
-
-# main token NzY4MDI4NDYxNjcwODU4NzUy.X46gPg.6FIR8Kkx__GH0EFlKV1yBUR1F8w
-# testing token NzY4MDM0NTEwMDUwMjk1ODI4.X46l4A.yls2H3xYFnNVs4BeQvvapM1MwMM
