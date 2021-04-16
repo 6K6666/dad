@@ -16,10 +16,6 @@ How to set it up/self host:
 
 4. cd into where your bot files are stored using cd PATH TO FOLDER and run the following command: pip install discord.py
 
-4 1/2. If you need to install any more modules install them with pip
-
-5. If you are on windows run python bot.py to start the bot
-
-5 1/2. If you are on a UNIX based OS (macOS/Linux) run python3 bot.py to start the bot
+5. If you are on windows run python bot.py to start the bot. If you are on a UNIX based OS (macOS/Linux) run python3 bot.py to start the bot.
 
 This repo will be available on an as-is basis. Semi-rewriting the bot is already a stretch for me. I probably won't provide any more support for the bot unless it blows up even more than it already has.
